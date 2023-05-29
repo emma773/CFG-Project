@@ -30,8 +30,8 @@ Although the high correlation with hay fever was a surprise, it can be explained
 
 ## Installation and Usage
 1. Clone this repo (for help see this [tutorial](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
-2. Raw data is being kept [here](https://github.com/fufu78/CFG-Project/tree/data-analysis-CSV-files](https://github.com/emma773/CFG-Project/blob/Data-Analysis-CSV-Files/README.md) within this repo. 
-3. Data processing/transformation scripts are being kept [here][(https://github.com/fufu78/CFG-Project/tree/data-analysis-results)](https://github.com/emma773/CFG-Project/blob/data-analysis-results/Air_quality_%26_health_factors-emma.ipynb)
+2. Raw data is being kept [here](https://github.com/emma773/CFG-Project/blob/Data-Analysis-CSV-Files/README.md) within this repo. 
+3. Data processing/transformation scripts are being kept [here](https://github.com/emma773/CFG-Project/blob/data-analysis-results/Air_quality_%26_health_factors-emma.ipynb)
 
 ### Overview of Repository
 |**Branch**    |  **Instructions**  | 
